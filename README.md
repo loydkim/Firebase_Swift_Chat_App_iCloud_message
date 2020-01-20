@@ -2,7 +2,7 @@
 
 ** Please click the Image **
 
-[![Youtube](https://youtu.be/DNgkq90JZkM/0.jpg)](https://youtu.be/DNgkq90JZkM)
+[![Youtube](https://img.youtube.com/vi/DNgkq90JZkM/0.jpg)](https://youtu.be/DNgkq90JZkM)
 
 Some of the apps may need a chat function to send a message. The firebase offer cloud messaging and database. I already made Firebase DB, push notification tutorial using SwiftUI in my channel, so I combine these codes to make chat function. 
 
